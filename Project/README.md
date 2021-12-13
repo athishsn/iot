@@ -1,3 +1,5 @@
+# Stock Market Data Analysis and Prediction Using API
+
 ## Technologies 
 Technologies used in the project
 * Python
