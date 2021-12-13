@@ -30,6 +30,8 @@ The dataset used in the project is viewed like below while running it on jupyter
 
 ![](project1.PNG)
 
+
+## Results
 The project uses nueral networks to build the datasets needed for the prediction of stocks using the dataset from the csv file.
 The output data is analysed from the data set and is plotted as below
 
